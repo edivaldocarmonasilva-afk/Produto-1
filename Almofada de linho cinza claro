@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Almofada de linho cinza claro</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Cabeçalho e Carrinho de Compras -->
+    <header>
+        <div class="container header-content">
+            <h1>Artnart</h1>
+            
+                
+            </div>
+        </div>
+    </header>
+
+    
+        <!-- Seção Principal do Produto e Formulário -->
+        <section class="product-checkout-container">
+            
+            <!-- Galeria de Imagens -->
+            <div class="product-gallery">
+                <div class="main-image-container">
+       <img src="Almofada cinza claro.jpg" alt="Thumbnail 1" class="thumbnail" onclick="changeMainImage(this)">
+    <img src="almofada cinza claro 2.jpg" alt="Thumbnail 2" class="thumbnail" onclick="changeMainImage(this)">
+    <img src="almofada cinza claro 3.jpg" alt="Thumbnail 3" class="thumbnail" onclick="changeMainImage(this)">
+           
+                </div>
+            </div> <!-- Seção Principal do Produto e Formulário -->
+        <section class="product-checkout-container">
+                             
+                </div>
+                <div class="thumbnail-container">
+   
+           
+            
+
+            <!-- Detalhes do Produto e Botão de Compra -->
+            <div class="producto">
+                <h2>Almofada de linho cinza claro</h2>
+                <p class="price">R$ 30,00</p>
+        <p class="short description">Almofada de linho cinza claro. Combine várias almofadas de cores diferentes, seu ambiente ficará elegante e confortável</p>
+                <a href="C:\Users\Edivaldo\OneDrive\Imagens\Artnart 5\Index.html\Checkout almofada de linho cinza claro.html" class="btn-comprar">Comprar</a>
+                
+            </div>
+        </section>
+
+        <!-- Descrição Completa -->
+        <section class="full-description">
+            <h3>Descrição Completa</h3>
+            <p>
+                Almofada de linho cinza claro.
+                Enchimento com fibra siliconada.
+                Zíper embutido.
+                Dimensões: 45x45cm.
+                Instruções de lavagem: não lavar na máquina, usar sabão neutro, secar a sombra.
+            </p>
+
+        </section>
+
+                <div class="payment-options">
+                    <h4>Formas de Pagamento Aceitas:</h4>
+                    <div class="payment-icons">
+                        <!-- Substitua por ícones reais se preferir -->
+                        <span>💳 Cartão de Crédito/Débito</span>
+                        
+                    <div class="ícone">
+                <img src="mastercard.png" alt="mastercard">
+                <img src="Elo.png"  alt="Elo"> 
+                <img src="visa.png" alt="visa">
+                <img src="diners-club.png" alt="diners-club">
+                <img src="hipercard.png"  alt="hipercard">
+                <img src="pix logo.png"  alt="pix logo">
+            </div>
+                        <span>📄 Boleto Bancário</span>
+                    </div>
+                        
+                    </div>
+
+
+
+
+                </div>
+
+                
+            </form>
+        </section>
+
+    </main>
+
+    <!-- Rodapé -->
+    <footer>
+        <div class="social media">
+            <p>Siga nossas redes sociais</p>
+        <div class="social media">
+        <img src="instagram.jpg"  alt="instagram"> 
+        <img src="facebook.jpg"  alt="facebook"> 
+        <img src="linkedin.jpg"  alt="linkedin"> 
+        <img src="tik tok.jpg"  alt="tik tok">
+        <img src="x twitter.jpg"  alt="x twitter"> 
+
+
+
+        </div>
+        <div class="container">
+            <p>&copy; 2025 Artnart. CNPJ: 61615295/0001-03</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
